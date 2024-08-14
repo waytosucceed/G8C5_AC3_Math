@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Alex asked his mother which of the following is not a prime number.",
+    "options": [
+      "31",
+      "61",
+      "71",
+      "91"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "If the decorated shells represent prime numbers and the plain shells represent composite numbers, which of the following numbers is likely to be prime?",
+    "options": [
+      "12",
+      "17",
+      "20",
+      "15"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Alex challenged Jordon to tell which of the following is a composite number.",
+    "options": [
+      "81",
+      "37",
+      "17",
+      "19"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The children were asked to tell, which of the following pairs is an example of twin primes?",
+    "options": [
+      "(5, 7)",
+      "(11, 13)",
+      "(17, 19)",
+      "All of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Their next question was to solve and tell: What is the smallest 3-digit prime number?",
+    "options": [
+      "103",
+      "101",
+      "109",
+      "113"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Alex asked his mother, which of the following numbers is a three-digit prime number?",
+    "options": [
+      "237",
+      "331",
+      "428",
+      "519"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Jordan wanted her mother to tell him, what is the smallest prime number greater than 700.",
+    "options": [
+      "701",
+      "703",
+      "707",
+      "709"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Alex and Jordan were stuck in finding out which of the following is a prime number.",
+    "options": [
+      "121",
+      "81",
+      "1331",
+      "None of the above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Shirley asked them to consider the following statements:<br> (i) All prime numbers are odd numbers. <br>(ii) There are only three single-digit prime numbers. <br>(iii) There are infinitely many prime numbers. <br>(iv) A prime number has only two factors.<br> Which of the following statements is true?",
+    "options": [
+      "(i) and (iv)",
+      "(ii), (iii) and (iv)",
+      "(iii) and (iv)",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Alexa asked Jordan, can he tell which of the following numbers is a composite number that can be expressed as the product of two distinct prime numbers?",
+    "options": [
+      "35",
+      "47",
+      "67",
+      "89"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Shirley asked her children to tell what is the smallest composite number that is the product of three distinct prime numbers.",
+    "options": [
+      "24",
+      "30",
+      "42",
+      "48"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Shirley asked Jordon what number is formed by multiplying the first three prime numbers.",
+    "options": [
+      "50",
+      "40",
+      "30",
+      "20"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A two-digit number 9A is a prime number. Find the value of A.",
+    "options": [
+      "3",
+      "1",
+      "9",
+      "7"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Shirley asked them, which of the following numbers is a composite number.",
+    "options": [
+      "101",
+      "127",
+      "149",
+      "187"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Shirley told both of them to answer: How many twin prime pairs are there between 50 and 100?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Shirley gave them different pairs of shells and asked them to identify the twin primes among the given pair of numbers:",
+    "options": [
+      "(1, 3)",
+      "(3, 5)",
+      "(13, 19)",
+      "(1, 2)"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "If the decorated shells represent prime numbers and the plain shells represent composite numbers, which of the following numbers is likely to be composite?",
+    "options": [
+      "2",
+      "5",
+      "7",
+      "10"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Shirley asked Alex to tell how many number of factors 323 has:",
+    "options": [
+      "No prime factors",
+      "Four prime factors",
+      "Two prime factors",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Jordan asked Alex, can he tell which of the following is a prime number.",
+    "options": [
+      "117",
+      "147",
+      "149",
+      "None of the above"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "At the end, Shirley asked Alex and Jordan to tell which of the following pairs of numbers is a pair of twin primes?",
+    "options": [
+      "(53, 55)",
+      "(61, 63)",
+      "(71, 73)",
+      "(89, 91)"
+    ],
+    "correct": 2
+  }
+]
